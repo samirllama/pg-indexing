@@ -1,0 +1,1 @@
+A practical, hands-on, applicable approach to database indexes. It covers what `B Trees` are with a focus on deeply understanding, and internalizing how they store data on disk, and how a database uses them to speed up queries.
